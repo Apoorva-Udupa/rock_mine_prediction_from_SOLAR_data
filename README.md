@@ -1,0 +1,2 @@
+# rock_mine_prediction_from_SOLAR_data
+Machine Learning Project using Logistic Regression
